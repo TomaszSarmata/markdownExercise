@@ -11,3 +11,6 @@ const addTwo = (num) => {
   }
   addTwo(5) //outputs 7
 ```
+- [] Turn on GitHub Pages
+- [] Outline my portfolio
+- [] Introduce myself to the world
